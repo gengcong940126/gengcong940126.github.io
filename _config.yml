@@ -83,11 +83,12 @@ author:
   name             : "Cong Geng"
   avatar           : "picture.jpg"
   bio              : "Ph.D. Student"
-  location         : "Shanghai, China"
+  location         : "Room 403, Building 5, SEIEE, \
+                       Shanghai Jiao Tong University, China."
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=acHCsegAAAAJ&hl=en"
-  email            :
+  email            : "gengcong@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
