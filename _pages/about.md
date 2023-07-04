@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in the Department of Electronic Engineering, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)~(SJTU). During my Ph.D. study, I visited the [Technical University of Denmark](https://www.dtu.dk/english/)~(DTU) for one year and a half, where I work with [Søren Hauberg](http://www2.compute.dtu.dk/~sohau/) and [Jes Frellsen](https://frellsen.org/).
+I am currently a Ph.D. candidate in the Department of Electronic Engineering, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (SJTU). During my Ph.D. study, I visited the [Technical University of Denmark](https://www.dtu.dk/english/) (DTU) for one year and a half, where I work with [Søren Hauberg](http://www2.compute.dtu.dk/~sohau/) and [Jes Frellsen](https://frellsen.org/).
 
 A data-driven personal website
 ======
