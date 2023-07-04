@@ -12,7 +12,7 @@ I am currently a Ph.D. candidate in the Department of Electronic Engineering, [S
 My research interests mainly focus on generative models and their applications. I'm also committed to exploring the geometric and distribution properties of data manifolds through generative models.
  
 News
-======
+------
 - [Jun 2023] One paper accepted to Neurocomputing.
 
 
