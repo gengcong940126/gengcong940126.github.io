@@ -1,7 +1,6 @@
-
 ---
-title: "Publications"
-permalink: /publications/
+title: "Talks"
+permalink: /talks/
 author_profile: true
 ---
 <b>[Solving the Reconstruction-Generation Trade-Off: Generative Model with Implicit Embedding Learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231223005519)</b> <br> 
