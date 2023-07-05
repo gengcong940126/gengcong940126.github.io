@@ -15,4 +15,4 @@ News
 ------
 - [Jun 2023] One paper accepted to Neurocomputing.
 
-
+<img align="middle" src="https://mrsandeshbhat.github.io/images/picture.jpg?raw=true" alt="Photo" style="width: 700px; border-radius: 10px; padding: 8px 8px 8px 8px"/> 
