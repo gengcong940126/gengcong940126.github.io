@@ -3,11 +3,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-#For proper citations, refer [Google Scholar](https://scholar.google.com/citations?user=Dx9aVjgAAAAJ&hl=en)<br>
-#<br>
-#<br>
+
 <b>[Bounds all around: training energy-based models with bidirectional bounds](http://mrsandeshbhat.github.io/publications/IDETCthao)</b> <br> 
-<i><b>Cong Geng</b></i>, Jia Wang, Zhiyong Gao, Jes Frellsen, and Søren Hauberg
+<i><b>Cong Geng</b></i>, Jia Wang, Zhiyong Gao, Jes Frellsen, and Søren Hauberg  
 <i>Advances in Neural Information Processing Systems&thinsp;(NeurIPS)&thinsp;(2021)</i>.
 <br>
 <br>
