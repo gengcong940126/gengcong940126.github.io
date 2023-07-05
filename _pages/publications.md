@@ -8,7 +8,7 @@ author_profile: true
 #<br>
 <b>[Bounds all around: training energy-based models with bidirectional bounds](http://mrsandeshbhat.github.io/publications/IDETCthao)</b> <br> 
 <i><b>Cong Geng</b></i>, Jia Wang, Zhiyong Gao, Jes Frellsen, and Søren Hauberg
-<i>Advances in Neural Information Processing Systems(2021)</i>. <b>IDETC-CIE 2019</b>.
+<i>Advances in Neural Information Processing Systems&thinsp;(NeurIPS)&thinsp;(2021)</i>.
 <br>
 <br>
 <b>[Analysis of a periodic force applied to the trunk to assist walking gait](http://mrsandeshbhat.github.io/publications/WearRA)</b> <br> 
