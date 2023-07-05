@@ -25,7 +25,7 @@ Peng Zhou, Lingxi Xie, Bingbing Ni, <i><b>Cong Geng</b></i>, and Qi Tian<br>
 <br>
 <b>[Wasserstein-Bounded Generative Adversarial Networks](https://openreview.net/forum?id=BkxgrAVFwH)</b> <br> 
 Peng Zhou, Bingbing Ni, Lingxi Xie, Xiaopeng Zhang, Hang Wang, <i><b>Cong Geng</b></i>, Qi Tian<br>
-<i>[Preprint]&thinsp;2020</i>.
+<i>Preprint&thinsp;2020</i>.
 <br>
 <br>
 <b>[A Wavelet-based Learning for Face Hallucination with Loop Architecture](https://ieeexplore.ieee.org/abstract/document/8698709)</b> <br> 
