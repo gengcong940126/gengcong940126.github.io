@@ -3,14 +3,19 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<b>[Solving the Reconstruction-Generation Trade-Off: Generative Model with Implicit Embedding Learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231223005519)</b> <br> 
+<b>[Exploring bidirectional bounds for minimax-training of Energy-based models]</b> <br> 
 <i><b>Cong Geng</b></i>, Jia Wang, Li Chen and Zhiyong Gao<br>
+<i>Neurocomputing 2023</i>.
+<br>
+<br>
+<b>[Solving the Reconstruction-Generation Trade-Off: Generative Model with Implicit Embedding Learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231223005519)</b> <br> 
+<i><b>Cong Geng</b></i>, Jia Wang, Zhiyong Gao, Jes Frellsen, and Søren Hauberg<br>
 <i>Neurocomputing 2023</i>.
 <br>
 <br>
 <b>[Bounds all Around: Training Energy-based Models with Bidirectional Bounds](https://proceedings.neurips.cc/paper/2021/file/a4d8e2a7e0d0c102339f97716d2fdfb6-Paper.pdf)</b> <br> 
 <i><b>Cong Geng</b></i>, Jia Wang, Zhiyong Gao, Jes Frellsen, and Søren Hauberg<br>
-<i>Advances in Neural Information Processing Systems&thinsp;(NeurIPS)&thinsp;2021</i>.
+<i>International Journal of Computer Vision;(IJCV)&thinsp;(Major Revision)</i>.
 <br>
 <br>
 <b>[Omni-GAN: On the Secrets of cGANs and Beyond](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Omni-GAN_On_the_Secrets_of_cGANs_and_Beyond_ICCV_2021_paper.pdf)</b> <br> 
