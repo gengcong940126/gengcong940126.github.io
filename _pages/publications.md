@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<b>[Exploring bidirectional bounds for minimax-training of Energy-based models]</b> <br> 
+<b>Exploring bidirectional bounds for minimax-training of Energy-based models</b> <br> 
 <i><b>Cong Geng</b></i>, Jia Wang, Li Chen and Zhiyong Gao<br>
 <i>International Journal of Computer Vision;(IJCV)&thinsp;(Major Revision)</i>.
 <br>
