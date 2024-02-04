@@ -13,5 +13,6 @@ My research interests mainly focus on generative models and their applications. 
  
 News
 ------
+- [Feb 2024] One paper submitted to ICML 2024.
 - [Jun 2023] One paper accepted to Neurocomputing.
 
