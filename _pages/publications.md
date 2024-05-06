@@ -8,6 +8,11 @@ author_profile: true
 <i>International Journal of Computer Vision&thinsp;(IJCV)&thinsp;(Major Revision)</i>.
 <br>
 <br>
+<b> Improving Adversarial Energy-Based Model via Diffusion Process</b> <br> 
+<i><b>Cong Geng</b></i>, Tian Han, Peng-Tao Jiang, Hao Zhang, Jinwei Chen, Søren Hauberg, Bo Li<br>
+<i>International Conference on Machine Learning&thinsp;(ICML)&thinsp;2024</i>.
+<br>
+<br>
 <b>[Solving the Reconstruction-Generation Trade-Off: Generative Model with Implicit Embedding Learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231223005519)</b> <br> 
 <i><b>Cong Geng</b></i>, Jia Wang, Li Chen and Zhiyong Gao<br>
 <i>Neurocomputing 2023</i>.
