@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Cong Geng"
   avatar           : "picture.jpg"
-  bio              : "Ph.D. Student"
+  bio              : "Researcher"
   location         : "Shanghai, China."
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=acHCsegAAAAJ&hl=en"
-  email            : "gengcong@sjtu.edu.cn"
+  email            : "gengcong@chinamobile.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
