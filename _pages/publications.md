@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <b>Exploring bidirectional bounds for minimax-training of Energy-based models</b> <br> 
-<i><b>Cong Geng</b></i>, Jia Wang, Zhiyong Gao, Jes Frellsen, and Søren Hauberg<br>
+<i><b>Cong Geng</b></i>, Jia Wang, Li Chen, Zhiyong Gao, Jes Frellsen, and Søren Hauberg<br>
 <i>International Journal of Computer Vision&thinsp;(IJCV)&thinsp;(Major Revision)</i>.
 <br>
 <br>
