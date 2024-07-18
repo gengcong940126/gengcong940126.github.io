@@ -13,7 +13,8 @@ My research interests mainly focus on generative models and their applications. 
  
 News
 ------
+- [Jul 2024] One paper accepted to ACM MM 2024.
 - [May 2024] One paper accepted to ICML 2024.
-- [Mar 2024] One paper submitted to ECCV 2024.
+
 
 
