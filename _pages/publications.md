@@ -3,6 +3,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<b>Non-uniform Timestep Sampling: Towards Faster Diffusion Model Training</b> <br> 
+Tianyi Zheng, <i><b>Cong Geng</b></i>, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wang, and Bo Li<br>
+<i>ACM Multimedia&thinsp;2024</i>.
+<br>
+<br>
 <b>Exploring bidirectional bounds for minimax-training of Energy-based models</b> <br> 
 <i><b>Cong Geng</b></i>, Jia Wang, Li Chen, Zhiyong Gao, Jes Frellsen, and Søren Hauberg<br>
 <i>International Journal of Computer Vision&thinsp;(IJCV)&thinsp;(Major Revision)</i>.
