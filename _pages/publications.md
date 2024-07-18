@@ -15,12 +15,12 @@ Tianyi Zheng, <i><b>Cong Geng</b></i>, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwe
 <br>
 <br>
 <b> Improving Adversarial Energy-Based Model via Diffusion Process</b> <br> 
-<i><b>Cong Geng</b></i>, Tian Han, Peng-Tao Jiang, Hao Zhang, Jinwei Chen, Søren Hauberg, Bo Li<br>
+<i><b>Cong Geng</b></i>, Tian Han, Peng-Tao Jiang, Hao Zhang, Jinwei Chen, Søren Hauberg, and Bo Li<br>
 <i>International Conference on Machine Learning&thinsp;(ICML)&thinsp;2024</i>.
 <br>
 <br>
 <b>[Solving the Reconstruction-Generation Trade-Off: Generative Model with Implicit Embedding Learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231223005519)</b> <br> 
-<i><b>Cong Geng</b></i>, Jia Wang, Li Chen and Zhiyong Gao<br>
+<i><b>Cong Geng</b></i>, Jia Wang, Li Chen, and Zhiyong Gao<br>
 <i>Neurocomputing 2023</i>.
 <br>
 <br>
@@ -35,17 +35,17 @@ Peng Zhou, Lingxi Xie, Bingbing Ni, <i><b>Cong Geng</b></i>, and Qi Tian<br>
 <br>
 <br>
 <b>[Adversarial Text Image Super-Resolution Using Sinkhorn Distance](https://ieeexplore.ieee.org/abstract/document/9054360)</b> <br> 
-<i><b>Cong Geng</b></i>, Li Chen, Xiaoyun Zhang, Zhiyong Gao<br>
+<i><b>Cong Geng</b></i>, Li Chen, Xiaoyun Zhang, and Zhiyong Gao<br>
 <i>IEEE International Conference on Acoustics, Speech, and Signal Processing&thinsp;(ICASSP)&thinsp;2020</i>.
 <br>
 <br>
 <b>[Wasserstein-Bounded Generative Adversarial Networks](https://openreview.net/forum?id=BkxgrAVFwH)</b> <br> 
-Peng Zhou, Bingbing Ni, Lingxi Xie, Xiaopeng Zhang, Hang Wang, <i><b>Cong Geng</b></i>, Qi Tian<br>
+Peng Zhou, Bingbing Ni, Lingxi Xie, Xiaopeng Zhang, Hang Wang, <i><b>Cong Geng</b></i>, and Qi Tian<br>
 <i>Preprint&thinsp;2020</i>.
 <br>
 <br>
 <b>[A Wavelet-based Learning for Face Hallucination with Loop Architecture](https://ieeexplore.ieee.org/abstract/document/8698709)</b> <br> 
-<i><b>Cong Geng</b></i>, Li Chen, Xiaoyun Zhang, Peng Zhou, Zhiyong Gao<br>
+<i><b>Cong Geng</b></i>, Li Chen, Xiaoyun Zhang, Peng Zhou, and Zhiyong Gao<br>
 <i>IEEE Visual Communications and Image Processing&thinsp;(VCIP)&thinsp;2018</i>.
 <br>
 <br>
