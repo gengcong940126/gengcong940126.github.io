@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>Latent-Guided Cooperative Energy-Based Models</b> <br> 
+<b>Cong Geng</b>, Xue Han, Yuan Ye, Qiang Hu, Ruiqiao Bai, and Junlan Feng<br>
+<i>International Conference on Machine Learning&thinsp;(ICML)&thinsp;2026</i>.
+<br>
+<br>
 <b>[SMC++: Masked Learning of Unsupervised Video Semantic Compression](https://arxiv.org/pdf/2406.04765)</b> <br> 
 Yuan Tian, Xiaoyue Ling, <b>Cong Geng</b>, Qiang Hu, Guo Lu, and  Guangtao Zhai<br>
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence&thinsp;(TPAMI)&thinsp;2025</i>.
