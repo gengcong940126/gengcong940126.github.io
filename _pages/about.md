@@ -13,9 +13,9 @@ My research interests mainly focus on generative models and their applications. 
  
 News
 ------
+- [May 2026] One paper accepted to ICML.
 - [Oct 2025] One paper accepted to TPAMI.
 - [Apr 2025] One paper accepted to IJCV.
-- [Mar 2025] One paper accepted to Neural Networks.
 
 
 
