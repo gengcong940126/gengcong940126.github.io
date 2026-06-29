@@ -9,6 +9,11 @@ author_profile: true
 <i>International Conference on Machine Learning&thinsp;(ICML)&thinsp;2026</i>.
 <br>
 <br>
+<b>[Agentic Retoucher for Text-To-Image Generation](https://openreview.net/pdf?id=emLXsVkbag](https://openaccess.thecvf.com/content/CVPR2026/papers/Shen_Agentic_Retoucher_for_Text-To-Image_Generation_CVPR_2026_paper.pdf))</b> <br> 
+Shaocheng Shen, Jianfeng Liang, Chunlei Cai, <b>Cong Geng</b>, Huiyu Duan, Xiaoyun Zhang, Qiang Hu,  Guangtao Zhai<br>
+<i>The IEEE/CVF Conference on Computer Vision and Pattern Recognition&thinsp;(CVPR)&thinsp;2026</i>.
+<br>
+<br>
 <b>[SMC++: Masked Learning of Unsupervised Video Semantic Compression](https://arxiv.org/pdf/2406.04765)</b> <br> 
 Yuan Tian, Xiaoyue Ling, <b>Cong Geng</b>, Qiang Hu, Guo Lu, and  Guangtao Zhai<br>
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence&thinsp;(TPAMI)&thinsp;2025</i>.
