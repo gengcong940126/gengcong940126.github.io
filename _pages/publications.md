@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>Latent-Guided Cooperative Energy-Based Models</b> <br> 
+<b>[Latent-Guided Cooperative Energy-Based Models](https://openreview.net/pdf?id=emLXsVkbag)</b> <br> 
 <b>Cong Geng</b>, Xue Han, Yuan Ye, Qiang Hu, Ruiqiao Bai, and Junlan Feng<br>
 <i>International Conference on Machine Learning&thinsp;(ICML)&thinsp;2026</i>.
 <br>
